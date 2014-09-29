@@ -34,7 +34,7 @@
   (setq sLoadedLod (concat sRootName ".LOD"))
   (if (get-buffer sLoadedLod)
       (kill-buffer sLoadedLod))
-  (setq sPath (concat "~/Projects/emacs/zeidon/src/" sRootName ".LOD"))
+  (setq sPath (concat "C:\\lplr\\cheetah\\" sRootName ".LOD"))
   (find-file-noselect sPath)
 )
 
