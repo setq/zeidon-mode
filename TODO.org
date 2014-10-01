@@ -1,0 +1,18 @@
+* DONE generate-full-lod-view
+** TODO generate-lod-view(s)based on operation views 
+* TODO iterative-search
+** Implements a dynamic search on the local operation views
+** Tab completion?
+* TODO generate-insert-new-operation
+** Pass Name and Type (Global, Local, Dialog, etc)
+** (interactive)
+* TODO generate-insert-snippets
+** Inserts predefined code  snippets
+* TODO split-vml
+** &Optional search forward for operation, defaults to beginning of buffer
+* TODO vml-operation-folding
+** Folds vml operations
+* TODO vml-syntax-highlighting
+** More advanced vml syntax highlighting
+* TODO vml-preparse
+** smarter vml parsing
